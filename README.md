@@ -1,6 +1,6 @@
 # Hello World, I'm Loon Htet! 👋✨
 
-![Pixel Art Banner](https://raw.githubusercontent.com/your-username/your-repo/main/image.png)
+![Pixel Art Banner](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
 🌆 **Welcome to my GitHub profile!**  
 I’m a creative developer passionate about crafting beautiful websites, writing clean code, and making the web a better place. 🚀  
