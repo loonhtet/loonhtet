@@ -1,8 +1,3 @@
-<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
-
-<h1 style="font-size: 4em; font-weight: bold; text-align: center;">Hello World!</h1>
-
-
 ![Pixel Art Banner](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
 <h1 style="font-family: 'Roboto', sans-serif; font-size: 3em; font-weight: bold; text-align: center;">
@@ -27,6 +22,7 @@
 - **Languages:** JavaScript, PHP
 - **Frameworks:** React, Next.js, Laravel
 - **Library** Tailwind, Bootstrap, Shadcn
+- **Database** MySQL, Postgress, Superbase
 - **Tools:** Git, VS Code, Figma
 
 ---
