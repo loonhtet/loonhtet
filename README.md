@@ -1,7 +1,7 @@
 <h1 style="font-size: 4em; font-weight: bold; text-align: center;">Hello World!</h1>
 
 
-![Pixel Art Banner](https://user-images.githubusercontent.com/74038190/216656944-f8c1b44e-493b-487f-87be-6cfe6a1a3374.gif)
+![Pixel Art Banner](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
 <h1 style="font-family: 'Roboto', sans-serif; font-size: 3em; font-weight: bold; text-align: center;">
   👋 Hey there! I'm Loon Htet, a passionate Web developer. 💡 Proficient in Tailwind, React, Nextjs, MySQL 🚀 Let's connect and build something
