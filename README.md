@@ -3,9 +3,7 @@
 
 ![Pixel Art Banner](https://user-images.githubusercontent.com/74038190/216656944-f8c1b44e-493b-487f-87be-6cfe6a1a3374.gif)
 
-🌆 **Welcome to my GitHub profile!**  
-I’m a creative developer passionate about crafting beautiful websites, writing clean code, and making the web a better place. 🚀  
-Let’s collaborate and build something amazing! 🌟
+<h1 style="font-size: 3em; font-weight: bold;">👋 Hey there! I'm Loon Htet, a passionate Web developer. 💡 Proficient in Tailwind, React, Nextjs, MySQL 🚀 Let's connect and build something</h1>
 
 ---
 
