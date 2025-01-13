@@ -1,3 +1,5 @@
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+
 <h1 style="font-size: 4em; font-weight: bold; text-align: center;">Hello World!</h1>
 
 
@@ -7,14 +9,10 @@
   👋 Hey there! I'm Loon Htet, a passionate Web developer. 💡 Proficient in Tailwind, React, Nextjs, MySQL 🚀 Let's connect and build something
 </h1>
 
----
-
 ## 🎨 About Me
-- 💻 **Developer** | 🖌️ **Designer** | 🎮 **Gamer**  
-- 🌱 Currently learning **AWS** and **Web3**  
-- 📝 Writing tech blogs to share my knowledge  
-- 🎯 Improving my **GitHub stats** and contributing to **open source**  
-- 🐶 Fun fact: I love **playing the piano**, drawing, and **hanging out with my dog**!
+- 💻 **Developer** | 🎮 **Gamer**  
+- 🌱 Currently working at **AYAPAY**  
+- 🎯 Freelance **Web Developer** — Passionate about building user-friendly websites
 
 ---
 
