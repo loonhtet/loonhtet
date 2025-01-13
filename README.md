@@ -24,9 +24,9 @@
 ---
 
 ## 🛠️ Tools & Technologies
-- **Languages:** JavaScript, Python, C#
-- **Frameworks:** React, Next.js, Node.js  
-- **Tools:** Git, VS Code, Figma, Tailwind CSS  
-- **Design Tools:** [Animated Fluent Emoji](https://animated-fluent-emoji.vercel.app/) 💖
+- **Languages:** JavaScript, PHP
+- **Frameworks:** React, Next.js, Laravel
+- **Library** Tailwind, Bootstrap, Shadcn
+- **Tools:** Git, VS Code, Figma
 
 ---
