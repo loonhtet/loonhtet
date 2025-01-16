@@ -1,4 +1,4 @@
-![Pixel Art Banner](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+![Pixel Art Banner](https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif)
 
 <h1 style="font-family: 'Roboto', sans-serif; font-size: 3em; font-weight: bold; text-align: center;">
   👋 Hey there! I'm Loon Htet, a passionate Web developer. 💡 Proficient in Tailwind, React, Nextjs, MySQL 🚀 Let's connect and build something
