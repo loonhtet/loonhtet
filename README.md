@@ -6,7 +6,7 @@
 
 ## 🎨 About Me
 - 💻 **Developer** | 🎮 **Gamer**  
-- 🌱 Currently working at **AYAPAY**  
+- 🌱 Currently working at **CONNECTED GROUP**  
 - 🎯 Freelance **Web Developer** — Passionate about building user-friendly websites
 
 ---
