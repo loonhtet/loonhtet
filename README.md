@@ -5,7 +5,7 @@
 </h1>
 
 ## 🎨 About Me
-- 💻 **Developer** | 🎮 **Gamer**  
+- 💻 **Developer**
 - 🌱 Currently working at **CONNECTED GROUP**  
 - 🎯 Freelance **Web Developer** — Passionate about building user-friendly websites
 
