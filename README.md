@@ -1,5 +1,4 @@
-# Hi!
-# I'm Loon Htet
+# Hi,   I'm Loon Htet
 
 Frontend Web Developer focused on building clean, fast, and user-friendly web applications.
 
